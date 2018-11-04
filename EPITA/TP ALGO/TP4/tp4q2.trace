@@ -1,0 +1,30 @@
+tp4q2
+501
+13747352
+2018-10-25 13:26:48
+[0] 24
+median3 (custom cmp) at 0
+[0] 24 27
+median3 (custom cmp) at 1
+[0] 24 27 25
+median3 (custom cmp) at 2
+[0] 24 27 25  6
+median3 (custom cmp) at 0
+[0] 24 27 25  6  2
+median3 (custom cmp) at 0
+[0] 24 27 25  6  2  1
+median3 (custom cmp) at 0
+[0] 24 27 25  6  2  1 19
+median3 (custom cmp) at 0
+[0] 24 27 25  6  2  1 19 14
+median3 (custom cmp) at 7
+[0] 24 27 25  6  2  1 19 14 26
+median3 (custom cmp) at 0
+[0] 24 27 25  6  2  1 19 14 26  3
+median3 (custom cmp) at 5
+ [0] 24 27 25  6  2  1 19 14 26  3 30
+median3 (custom cmp) at 10
+ [0] 24 27 25  6  2  1 19 14 26  3 30 34
+median3 (custom cmp) at 11
+ [0] 24 27 25  6  2  1 19 14 26  3 30 34 22
+median3 (custom cmp) at 0
